@@ -1,0 +1,1 @@
+O Encriptador de Texto é um projeto desenvolvido para criptografar e descriptografar textos de forma eficiente. Este projeto foi criado como desafio em parceria com a Alura e OracleOne, oferecendo uma interface fácil de usar e algoritmos de criptografia basicos. 
